@@ -1,5 +1,5 @@
 {
-    "name": "kartik-v/yii2-editors",
+    "name": "mykola-konoval/yii2-editors",
     "description": "Editor widgets Yii2 framework. Summernote WYSIWYG editor, Codemirror code editor and PlainText editor for Bootstrap 3.x, 4.x and 5.x.",
     "keywords": [
         "yii2",
@@ -16,7 +16,7 @@
         "summernote",
         "bootstrap"
     ],
-    "homepage": "https://github.com/kartik-v/yii2-editors",
+    "homepage": "https://github.com/mykola-konoval/yii2-editors",
     "type": "yii2-extension",
     "license": "BSD-3-Clause",
     "authors": [
@@ -34,9 +34,4 @@
             "kartik\\editors\\": "src"
         }
     },
-    "extra": {
-        "branch-alias": {
-            "dev-master": "1.0.x-dev"
-        }
-    }
 }
