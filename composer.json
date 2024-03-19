@@ -5,7 +5,6 @@
     "keywords": [
         "yii2",
         "extension",
-        }
     ],
     "require": {
         "kartik-v/yii2-krajee-base": ">=2.0.0"
